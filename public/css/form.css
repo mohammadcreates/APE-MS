@@ -1,0 +1,62 @@
+input {
+    border: 3px solid #6FEF77;
+    font-size: 14px;
+}
+
+input[readonly] {
+    cursor: not-allowed;
+    background-color: #e0e0e0;
+    width: 150px;
+    border: 3px solid #6FEF77;
+    border-radius: 10px;
+}
+
+#payment {
+    width: 150px;
+    border: 3px solid #6FEF77;
+    border-radius: 10px;
+
+}
+
+#package {
+    border: 3px solid #6FEF77;
+    font-size: 12px;
+    
+}
+#ptPackages{
+    border: 3px solid #6FEF77;
+    font-size: 12px;
+    
+}
+#member{
+    border: 3px solid #6FEF77;
+    font-size: 12px;   
+}
+#day{
+    border: 3px solid #6FEF77;
+    font-size: 15px;   
+}
+    #trainer{
+    border: 3px solid #6FEF77;
+    font-size: 12px;   
+}
+
+
+
+form {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+button {
+    width: 80px;
+    border: 3px solid #6FEF77;
+    border-radius: 10px;
+    color: black;
+    background-color: #6FEF77;
+    font-size: 14px;
+
+}

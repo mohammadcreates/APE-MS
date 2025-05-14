@@ -1,0 +1,21 @@
+.main-content {
+    margin-left: 130px;
+    padding: 15px;
+}
+
+.title {
+    margin-left: 150px;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+body {
+
+    font-family: 'Montserrat';
+}
+
+#inputs {
+    padding-bottom: 10px;
+}
+

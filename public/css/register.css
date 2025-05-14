@@ -1,0 +1,32 @@
+#button {
+
+    background-color: #6FEF77;
+}
+#button:hover {
+
+    background-color:  #60bb66;;
+}
+
+body {
+
+    background: linear-gradient(135deg, #f8fff9 0%, #e6f9e7 100%);
+}
+
+.register-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.error {
+    color: #dc3545;
+    font-size: 0.9rem;
+}
+
+#title {
+    font-weight: 600;
+    color: #6FEF77;
+}

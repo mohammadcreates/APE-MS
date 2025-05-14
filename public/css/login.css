@@ -1,0 +1,30 @@
+form{
+    padding-top: 30px;
+}
+.support{
+    font-style: italic;
+    color: red;
+   padding-top: 150px;
+}
+.error-message {
+    color: #dc3545;
+    margin-bottom: 15px;
+}
+.form-control{
+    border: 3px solid #6FEF77;
+    width: 200px;
+    padding: 0px;
+    
+}
+.login{
+    margin-top: 10px;
+    border: none;
+    background-color: #6FEF77;
+    border-radius: 5px;
+    font-size: 17px;
+    
+}
+
+ a{
+    padding-left: 10px;
+ }
